@@ -24,9 +24,15 @@
 - **Коротко нажми** — запись идёт сама. Закончить — нажми ещё раз.
 - Значок волны в строке меню: настройки, словарь, история.
 
+## Обновление
+
+Значок волны в строке меню → панель → **Настройки** → **Обновления** →
+**Проверить**. Если есть новая версия — **Обновить**: LocalFlow сама скачает
+её, поставит и перезапустится. Разрешения сохраняются.
+
 ## Текст не вставляется, хотя галочки стоят
 
-После обновления галочка в списке может остаться от старой копии. Открой
+Если ставил LocalFlow 0.1.9 и новее вручную поверх, галочка может остаться от старой копии. Открой
 Универсальный доступ, выбери LocalFlow, нажми «−», затем «+» и добавь LocalFlow
 из «Программ» заново. Потом закрой LocalFlow и открой снова.
 
@@ -57,8 +63,14 @@ Requires an Apple-silicon Mac (M1 or newer) and macOS 14 or later.
 - **Tap briefly** to record hands-free; tap again to stop.
 - The wave icon in the menu bar: settings, dictionary, history.
 
+## Updating
+
+Wave icon in the menu bar → panel → **Settings** → **Updates** → **Check**.
+If there is a new version, click **Update**: LocalFlow downloads it, installs
+it and restarts by itself. Permissions are kept.
+
 ## Text isn't inserted although the switches are on
 
-After an update the switch can belong to the old copy. In Accessibility select
+If you installed a new version by hand over 0.1.9, the switch can belong to the old copy. In Accessibility select
 LocalFlow, click “−”, then “+” and add LocalFlow from Applications again.
 Then quit and reopen LocalFlow.
